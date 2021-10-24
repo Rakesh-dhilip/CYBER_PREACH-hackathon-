@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>quiz</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename = 'sandf.css') }}">
+</head>
+
+<body>
+  <form action="/home" method="post">
+
+    <div class="qgroup">
+      <label >“Congratulations and BRAVO!”</label>
+      <br>
+      <a href="/quiz/internet"><img src="{{ url_for('static', filename = 'congratulation.png') }}" width="300px" height="300px"></a>
+      <br>
+      <label >You have secured more than 80%</label>
+    </div>
+  </form>
+
+
+</body>
+</html>

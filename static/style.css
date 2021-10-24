@@ -1,0 +1,107 @@
+.bdy{
+    background-color: #fecbca;
+    overflow-x: hidden;
+    width:100%;
+}
+.ima{
+    position: relative;
+    width:100%
+
+}
+.imo{
+  width: 100%;
+  position: relative;
+  padding-top: 60px;
+
+}
+.cont{
+  padding: 20px 100px 20px 100px;
+}
+#tg{
+    width:5.5rem;
+    height:3.5rem;
+}
+.main {
+    width: 50%;
+    margin: 50px auto;
+}
+
+.form-control {
+    padding-left: 2.375rem;
+}
+textarea:focus{
+  border-color:#fecbca;
+  outline: none !important;
+}
+
+.fold{
+  padding: 5%;
+  text-align: center;
+}
+
+.cont {
+ background-color: rgba(255, 255, 255, .15);
+}
+
+.cards{
+  background-color:	#232b2b;
+  padding: 30px 40px 30px 40px;
+  color: #fecbca;
+  border-radius: 20px;
+  font-family: 'Bungee Inline', cursive;
+  font-size: 16px;
+}
+
+.cardis{
+  background-color:	#232b2b;
+  padding: 30px 40px 30px 40px;
+  color: white;
+  border-radius: 20px;
+  font-family: 'Bungee Inline', cursive;
+  font-size: 16px;
+}
+
+.btn1 {
+  border-radius: 70px;
+  border:3px solid #fecbca;
+  font-family: 'Bungee Inline', cursive;
+  color: #ffffff;
+  font-size: 13px;
+  background: #000000;
+  padding: 7px 12px 7px 12px;
+}
+.btn1:hover {
+  background:black;
+  color: #fecbca;
+  text-decoration: none;
+}
+
+.sub{
+  border-color:#fecbca;
+  background-color: rgba(255, 255, 255, .15);
+}
+
+.btn2 {
+  border-radius: 70px;
+  border:3px solid #fecbca;
+  font-family: 'Bungee Inline', cursive;
+  color: #ffffff;
+  font-size: 17px;
+  background: #000000;
+  padding: 12px 17px 12px 17px;
+}
+.btn2:hover {
+  background:black;
+  color: #fecbca;
+  text-decoration: none;
+}
+
+.styl{
+  font-family: 'Andada Pro', serif;
+  font-size: 21px;
+}
+#imer{
+  border-radius: 55px;
+}
+
+#
